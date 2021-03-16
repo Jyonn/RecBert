@@ -1,2 +1,2 @@
 # RecBert
-Sigir 2021 Submitted Paper
+SIGIR 2021 Submitted Paper
